@@ -11,6 +11,8 @@ Search for @botfather in Telegram
 
 4.copy the api and apply in code
 
+5.run pip install python-telegram-bot in terminal
+
 ![Screenshot (52)](https://user-images.githubusercontent.com/59390996/129444573-9c2edf22-3914-4946-918b-73ea2405b9c5.png)
 ![Screenshot (55)](https://user-images.githubusercontent.com/59390996/129444261-1ee637ef-3039-4588-9cf0-ffeea1a452a8.png)
 ![Screenshot (56)](https://user-images.githubusercontent.com/59390996/129444265-f50d557b-6c9f-47ad-a53f-103aa91c775e.png)
