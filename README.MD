@@ -10,11 +10,11 @@ Search for @botfather in Telegram
 3.Enter the Display Name and User Name for the bot
 
 4.copy the api and apply in code
-
-5.run pip install python-telegram-bot in terminal
-
 ![Screenshot (52)](https://user-images.githubusercontent.com/59390996/129444573-9c2edf22-3914-4946-918b-73ea2405b9c5.png)
+
+5.install python telegram package by typing  "pip install python-telegram-bot" in terminal
 ![Screenshot (55)](https://user-images.githubusercontent.com/59390996/129444261-1ee637ef-3039-4588-9cf0-ffeea1a452a8.png)
+6.start coding
 ![Screenshot (56)](https://user-images.githubusercontent.com/59390996/129444265-f50d557b-6c9f-47ad-a53f-103aa91c775e.png)
 ![Screenshot (58)](https://user-images.githubusercontent.com/59390996/129444271-8d56d86d-bc10-4dfa-875a-2dd409b2f18b.png)
 ![Screenshot (59)](https://user-images.githubusercontent.com/59390996/129444276-ed5c9025-ad8b-410a-8ff4-7fdb6b4681dd.png)
