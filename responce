@@ -1,0 +1,18 @@
+def sample(input_text):
+    message = str(input_text).lower()
+    if message in ("hello","hi","hey"):
+        return "hello"
+    if message in ("how are you"):
+        return "iam fine what about you"
+    if message in ("what is your name "):
+      return "mujju"
+    if message in("youtube"):
+      return "https://www.youtube.com/channel/UCk_FMayrCiylVDWY-6Ws8qw"
+    if message in ("blog"):
+      return "https://mrkstech.blogspot.com/"
+    if message in("thank you"):
+     return "most welcome"
+
+    return("thank you")
+
+
