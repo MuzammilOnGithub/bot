@@ -9,7 +9,7 @@ Search for @botfather in Telegram
 
 3.Enter the Display Name and User Name for the bot
 
-4.copy the api and apply in code
+4.copy the api and apply in python code
 
 ![Screenshot (52)](https://user-images.githubusercontent.com/59390996/129444573-9c2edf22-3914-4946-918b-73ea2405b9c5.png)
 ![Screenshot (55)](https://user-images.githubusercontent.com/59390996/129444261-1ee637ef-3039-4588-9cf0-ffeea1a452a8.png)
