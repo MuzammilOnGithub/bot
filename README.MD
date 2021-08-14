@@ -25,7 +25,7 @@ Search for @botfather in Telegram
 ![Screenshot (59)](https://user-images.githubusercontent.com/59390996/129444276-ed5c9025-ad8b-410a-8ff4-7fdb6b4681dd.png)
 ![Screenshot (60)](https://user-images.githubusercontent.com/59390996/129444297-6c83f79a-9c33-49a2-9c74-cb9d24652093.png)
 
-5.lets start the bot and test
+5. lets start the bot and testk
 
 
 
